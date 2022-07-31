@@ -2,6 +2,14 @@
 
 This App where made through learning React.JS Basics and Environnement setups
 
+# How to navigate ?
+  In src public folder you'll find the bundle and the index.html, with a script file incorporated in it
+  in src file will be the components folder, where react components are created
+  the app.js where the final render sits and the file going to a build by webpack
+  styles folder where is set the SASS/SCSS, with base folder in them, component folder and origin style.scss designated for build and where is imported all scss files
+  webpack.config.js file where sits the instruction to bundle, the rules, loaders and modules
+  package.json file where sits the dependencies, the props related to the app and third party libraries
+
 # What Have I learn ?
 
 I learn how to use Webpack and to to be able to bundle dependencies
@@ -12,3 +20,4 @@ JSX syntax, The DOM (Which I already had fundamentals)
 
 I am now more confident about managing files, which at first I found too big for my understanding
 I can now confidently set up a react App
+
